@@ -10,8 +10,17 @@ namespace If_Else
     {
         static void Main(string[] args)
         {
-            if (20 > 18) { 
-                Console.WriteLine("20 is greater than 18");
+            Console.Write("Enter a number: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            if (n < 10) {
+                Console.WriteLine("Number is less than 10");
+            }
+            else if (n < 20) {
+                Console.WriteLine("Number is less than 20");
+            }
+            else {
+                Console.WriteLine("Number is  greatyer than or equal to 20");
             }
         }
     }
