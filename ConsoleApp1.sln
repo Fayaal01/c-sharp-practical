@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constant", "constant\consta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultpleVariable", "MultpleVariable\MultpleVariable.csproj", "{0A7FB384-52A6-461B-B3F5-3887588C8187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arithmeticOperators", "arithmeticOperators\arithmeticOperators.csproj", "{C851018A-3B62-48FD-B36B-2DE9DDC414B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0A7FB384-52A6-461B-B3F5-3887588C8187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A7FB384-52A6-461B-B3F5-3887588C8187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A7FB384-52A6-461B-B3F5-3887588C8187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C851018A-3B62-48FD-B36B-2DE9DDC414B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C851018A-3B62-48FD-B36B-2DE9DDC414B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C851018A-3B62-48FD-B36B-2DE9DDC414B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C851018A-3B62-48FD-B36B-2DE9DDC414B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
