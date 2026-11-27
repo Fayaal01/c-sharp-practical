@@ -11,7 +11,7 @@ namespace logicalOperator
         static void Main(string[] args)
         {
             int age = 22;
-            Console.WriteLine(age >= 18 && age <= 20);
+            Console.WriteLine(age >= 18 && age <= 30);
         }
     }
 }
